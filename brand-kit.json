@@ -1,0 +1,14 @@
+{
+  "brandKit": {
+    "fonts": [
+      {
+        "family": "Permanent Marker",
+        "category": "handwriting",
+        "source": "google-fonts",
+        "weights": [
+          400
+        ]
+      }
+    ]
+  }
+}
